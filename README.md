@@ -7,7 +7,7 @@
 
 A production-grade, multi-tenant document processing platform that demonstrates enterprise-level backend engineering practices. Built with FastAPI, PostgreSQL, and Redis, this system showcases real-world software engineering skills suitable for SWE internship and new grad positions.
 
-## 🌟 What This Project Does
+## 🌟 Summary of Project
 
 This platform allows **multiple companies (tenants)** to securely upload documents, process them asynchronously, and extract structured metadata. Think of it as a simplified version of services like:
 
@@ -388,13 +388,10 @@ This is a portfolio project, but suggestions and improvements are welcome!
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
-
-This project is created for educational and portfolio purposes.
 
 ## 👤 Author
 
-Built as a demonstration of production-grade backend engineering practices.
+Jayesh Velivela
 
 ---
 
